@@ -1,0 +1,14 @@
+//___FILEHEADER___
+
+___IMPORTHEADER_cocoaTouchSubclass___
+#import "SynthesizeSingleton.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cocoaTouchSubclass___
+
+SYNTHESIZE_SINGLETON_FOR_CLASS_HEADER(___FILEBASENAMEASIDENTIFIER___);
+
+@end
+
+NS_ASSUME_NONNULL_END
